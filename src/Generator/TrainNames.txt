@@ -1,0 +1,137 @@
+Silver Bullet
+Steel Thunder
+Iron Giant
+Rail Racer
+Red Express
+Blue Comet
+Golden Spike
+Black Diamond
+Green Machine
+Copper Cruiser
+Sunset Limited
+Midnight Flyer
+Northern Light
+Southern Belle
+Western Star
+Eastern Express
+Diamondback
+Desert Runner
+Arctic Explorer
+Mountain Mover
+Prairie Pioneer
+River Runner
+Sea Voyager
+Skyliner
+Canyon Cruiser
+Coastliner
+Glacier Express
+Ocean View
+Royal Palm
+Silver Star
+Snowdrift
+Thunderbolt
+Union Pacific
+Silver Streak
+Zephyr
+American Flyer
+Amtrak Express
+Central Pacific
+Continental Limited
+Golden Arrow
+Gulf Coast Limited
+Hiawatha
+Illinois Central
+Keystone Express
+Liberty Bell
+Mainliner
+Missouri Pacific
+New York Central
+North Coast Limited
+Pacific Surfliner
+Pioneer Zephyr
+Santa Fe Chief
+South Shore Line
+Super Chief
+Texas Eagle
+Twentieth Century Limited
+California Zephyr
+Empire Builder
+Lake Shore Limited
+Maple Leaf
+Montrealer
+Northeast Regional
+Pennsylvanian
+Silver Meteor
+Southwest Chief
+Sunset Limited
+Vermonter
+Adirondack
+Amtrak Cascades
+Auto Train
+Capitol Limited
+City of New Orleans
+Coast Starlight
+Crescent
+Downeaster
+Empire Service
+Ethan Allen Express
+Heartland Flyer
+Hi-Level
+Hoosier State
+Illinois Zephyr
+Lake Cities
+Lincoln Service
+Michigan Services
+Missouri River Runner
+Northeast Corridor
+Palmetto
+Pere Marquette
+Piedmont
+Saluki
+San Joaquins
+Southwest Chief
+Texas Eagle
+Wolverine
+Ann Rutledge
+Blue Water
+Capital Corridor
+Cardinal
+Carl Sandburg
+Carolinian
+Downeaster
+Ethan Allen Express
+Empire Service
+Heartland Flyer
+Hiawatha Service
+Illini
+Keystone Service
+Lincoln Service
+Maple Leaf
+Missouri River Runner
+Pennsylvanian
+Pere Marquette
+Saluki
+San Joaquins
+Silver Service
+Southwest Chief
+Texas Eagle
+Vermonter
+Amtrak California
+Acela Express
+Empire Builder
+Lake Shore Limited
+Northeast Regional
+Pacific Surfliner
+Palmetto
+Capitol Limited
+Cardinal
+Carolinian
+Crescent
+Downeaster
+Ethan Allen Express
+Empire Service
+Hiawatha
+Hoosier State
+Illini
+Keystone Service
+Lake

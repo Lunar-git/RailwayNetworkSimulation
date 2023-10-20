@@ -1,9 +1,7 @@
-# GUI_PROJECT_01
+# Simulation and maintanance of the rail-way infrastructure
 
-20/20 Points recieved for this project
+Documantaion:
 
-GUI
-Project No. 1
 Write an application that will be used to simulate and maintain the logistics of the rail-
 way infrastructure, including railway stations, connections, line intersections and different train
 implementations.
